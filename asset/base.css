@@ -1,0 +1,20 @@
+:root {
+  --color-one: #8261ee;
+  --color-two: #ff589e;
+  --color-tree: #fff;
+  --color-bg: #f2f2fe;
+  --color-bg1: #e7eff5;
+  --color-text: #1e1e42;
+}
+* {
+  color: var(--color-text);
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
